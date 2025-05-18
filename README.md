@@ -29,10 +29,6 @@ Detailed notes for each session will be added here as the course progresses.
 - [React.js Documentation](https://react.dev/learn)
 - [Next.js Documentation](https://nextjs.org/docs)
 
-## Contributing
-
-Contributions are welcome! Feel free to submit pull requests or open issues to improve this repository.
-
 ---
 
 Happy Learning! 🚀
